@@ -1,0 +1,63 @@
+[
+    {
+        "Portal": "Facebook",
+        "Zalozciel":"Marks Zuckerberg",
+        "Rok zalozenia":2004,
+        "Darmowy":true,
+        "Liczba uzytkownikw": 3000000000
+
+    },
+    {
+        "Portal":"Messenger",
+        "Zalozyciel":"Mark Zuckerberg",
+        "Rok zalozenia":2011,
+        "Darmowy": true,
+        "Liczba uzytkownikow": 10000000
+
+    },
+    {
+        "Portal":"Instagram",
+        "Zalozyciel":"Kevin Systrome",
+        "Rok zalozenia":2010,
+        "Darmowy": true,
+        "Liczba uzytkownikow":30000000
+
+    },
+
+
+    {
+        "Portal":"WhatsApp",
+        "Zalozyciel":"Jan Kum",
+        "Rok zalozenia":2009,
+        "Darmowy":true,
+        "Liczba uzytkownikow":30000000
+
+
+    },
+
+    {
+        "Portal":"WeChat",
+        "Zalozyciel":"Allen Zhang",
+        "Rok zalozenia":2011,
+        "Darmowy":true,
+        "Liczba uzytkownikow":13000000
+
+
+    },
+
+    {
+        "Portal":"X",
+        "Zalozyciel":"Jack Dorsey",
+        "Rok zalozenia":2006,
+        "Darmowy":true,
+        "Liczba uzytkownikow":140000000
+
+
+    }
+
+
+
+
+
+
+]

@@ -1,2 +1,2 @@
 # TEAM 
-1. Michał Gniadek
+1. Michał Gniadek 

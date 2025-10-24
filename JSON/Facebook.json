@@ -1,0 +1,21 @@
+{
+    "Portal": "Facebook",
+    "Zalozyciel":" Marks Zuckberg",
+    "Rok Założenia": 2004,
+    "Opcje": ["Dodawanie Zdjec","Pisanie Komentarzy","Dodawanie Postow"],
+    "Tryb ciemny": true,
+    "Srednia ilosc godzin w portalu": 1.5,
+    "Opcje Pobrania":{
+        "Android":"Sklep Google",
+        "IOS":"AppStore"
+    },
+    "Liczba Uzytkownikow": 10000000
+
+
+
+
+
+
+
+
+}

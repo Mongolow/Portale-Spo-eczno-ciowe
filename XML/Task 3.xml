@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaSpolecznosciowe>
+    <Instagram>
+        <IloscUzytkownikow sredniWiek="20" notacja="miliard">1</IloscUzytkownikow>
+        <KrajZalozenia rokZalozenia="2003" miesiacZalozenia="czerwiec">Stany Zjedonoczone</KrajZalozenia>
+        <Logo kolorLogo="gradient różowo-żółty" ksztaltLogo="kwadrat">Kamera</Logo>
+        <Zalozyciel obecnyWiek="42" wyksztalcenie="wyzsze">Kevina Systroma</Zalozyciel>
+    </Instagram>
+    <X>
+        <IloscUzytkownikow sredniWiek="23" notacja="miliard">1.2</IloscUzytkownikow>
+        <KrajZalozenia rokZalozenia="2010" miesiacZalozenia="sierpien">Stany Zjedonoczone</KrajZalozenia>
+        <Logo kolorLogo="czarny" ksztaltLogo="x">Litera X</Logo>
+        <Zalozyciel obecnyWiek="49" wyksztalcenie="srednie">Jack Dorsey</Zalozyciel>
+    </X>
+    <Facebook> 
+        <IloscUzytkownikow sredniWiek="20" notacja="miliard">2</IloscUzytkownikow>
+        <KrajZalozenia rokZalozenia="2003" miesiacZalozenia="grudzien">Stany Zjedonoczone</KrajZalozenia>
+        <Logo kolorLogo="niebieski" ksztaltLogo="kwadrat">Litera F</Logo>
+        <Zalozyciel obecnyWiek="41" wyksztalcenie="srednie">Mark Zuckerberg</Zalozyciel>
+    </Facebook>
+    <TikTok>
+        <IloscUzytkownikow sredniWiek="18" notacja="miliard">3</IloscUzytkownikow>
+        <KrajZalozenia rokZalozenia="2010" miesiacZalozenia="wrzesien">Chiny</KrajZalozenia>
+        <Logo kolorLogo="czarny" ksztaltLogo="okrag">Nuta muzyczna</Logo>
+        <Zalozyciel obecnyWiek="41" wyksztalcenie="wyzsze">Zhang Yiming</Zalozyciel>
+    </TikTok>
+    <GaduGadu>
+        <IloscUzytkownikow sredniWiek="22" notacja="tysiac">400</IloscUzytkownikow>
+        <KrajZalozenia rokZalozenia="2001" miesiacZalozenia="styczen">Polska</KrajZalozenia>
+        <Logo kolorLogo="gradient różowo-żółty" ksztaltLogo="kwadrat">Żółty</Logo>
+        <Zalozyciel obecnyWiek="51" wyksztalcenie="srednie">Łukasz Foltyn</Zalozyciel>
+    </GaduGadu>
+    <YouTube>
+        <IloscUzytkownikow sredniWiek="25" notacja="miliard">3 mld.</IloscUzytkownikow>
+        <KrajZalozenia rokZalozenia="2008" miesiacZalozenia="maj">Stany Zjedonoczone</KrajZalozenia>
+        <Logo kolorLogo="gradient różowo-żółty" ksztaltLogo="kwadrat">Czerwony</Logo>
+        <Zalozyciel obecnyWiek="45" wyksztalcenie="wyzsze">Jawed Karim</Zalozyciel>
+</YouTube>
+</MediaSpolecznosciowe>

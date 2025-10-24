@@ -1,42 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Instagram> 
-    <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
-    <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
-    <KolorLogo>Gradient różowo-żółty</KolorLogo>
-    <Zalozyciel>Kevina Systroma</Zalozyciel>
-</Instagram>
+<MediaSpolecznosciowe>
+    <Instagram> 
+        <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
+        <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
+        <KolorLogo>Gradient różowo-żółty</KolorLogo>
+        <Zalozyciel>Kevina Systroma</Zalozyciel>
+    </Instagram>
 
-<X> 
-    <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
-    <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
-    <KolorLogo>Czarny</KolorLogo>
-    <Zalozyciel>Jack Dorsey</Zalozyciel>
-</X>
+    <X> 
+        <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
+        <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
+        <KolorLogo>Czarny</KolorLogo>
+        <Zalozyciel>Jack Dorsey</Zalozyciel>
+    </X>
 
-<Facebook> 
-    <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
-    <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
-    <KolorLogo>Niebieski</KolorLogo>
-    <Zalozyciel>Mark Zuckerberg</Zalozyciel>
-</Facebook>
+    <Facebook> 
+        <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
+        <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
+        <KolorLogo>Niebieski</KolorLogo>
+        <Zalozyciel>Mark Zuckerberg</Zalozyciel>
+    </Facebook>
 
-<TikTok> 
-    <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
-    <KrajZalozenia>Chiny</KrajZalozenia>
-    <KolorLogo>Czarny</KolorLogo>
-    <Zalozyciel>Zhang Yiming</Zalozyciel>
-</TikTok>
+    <TikTok> 
+        <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
+        <KrajZalozenia>Chiny</KrajZalozenia>
+        <KolorLogo>Czarny</KolorLogo>
+        <Zalozyciel>Zhang Yiming</Zalozyciel>
+    </TikTok>
 
-<GaduGadu> 
-    <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
-    <KrajZalozenia>Polska</KrajZalozenia>
-    <KolorLogo>Żółty</KolorLogo>
-    <Zalozyciel>Łukasz Foltyn</Zalozyciel>
-</GaduGadu>
+    <GaduGadu> 
+        <IloscUzytkownikow>1 mld.</IloscUzytkownikow>
+        <KrajZalozenia>Polska</KrajZalozenia>
+        <KolorLogo>Żółty</KolorLogo>
+        <Zalozyciel>Łukasz Foltyn</Zalozyciel>
+    </GaduGadu>
 
-<YouTube> 
-    <IloscUzytkownikow>3 mld.</IloscUzytkownikow>
-    <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
-    <KolorLogo>Czerwony</KolorLogo>
-    <Zalozyciel>Jawed Karim</Zalozyciel>
-</YouTube>
+    <YouTube> 
+        <IloscUzytkownikow>3 mld.</IloscUzytkownikow>
+        <KrajZalozenia>Stany Zjedonoczone</KrajZalozenia>
+        <KolorLogo>Czerwony</KolorLogo>
+        <Zalozyciel>Jawed Karim</Zalozyciel>
+    </YouTube>
+</MediaSpolecznosciowe>
